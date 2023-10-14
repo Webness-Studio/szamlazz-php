@@ -17,7 +17,7 @@ class SzamlaAgentUtil {
     /**
      * Alapértelmezett útvonal
      */
-    const DEFAULT_BASE_PATH = __DIR__ . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR;
+    const DEFAULT_BASE_PATH = __DIR__ . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR;
 
     /**
      * Pontos dátum (Y-m-d) formátumban
