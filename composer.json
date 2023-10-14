@@ -1,0 +1,14 @@
+{
+    "name": "webness-studio/szamlazz-php",
+    "description": "PHP SDK for szamlazz.hu",
+    "require": {
+        "php": "^7.2 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SzamlaAgent\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false
+}
