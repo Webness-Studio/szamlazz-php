@@ -12,7 +12,7 @@ class CookieHandler {
     /**
      * A cookie.txt mentési helye
      */
-    const COOKIE_FILE_PATH = __DIR__ . "/../" . DIRECTORY_SEPARATOR . "cookie" . DIRECTORY_SEPARATOR;
+    const COOKIE_FILE_PATH = __DIR__ . "/../../" . DIRECTORY_SEPARATOR . "cookie" . DIRECTORY_SEPARATOR;
 
     /**
      * Cookie file

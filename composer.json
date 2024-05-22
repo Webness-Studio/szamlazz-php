@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SzamlaAgent\\": "src/"
+            "SzamlaAgent\\": "src/szamlaagent/"
         }
     },
     "minimum-stability": "dev",
